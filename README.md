@@ -1,5 +1,3 @@
-[editor](https://github.com/mobiskif/mobiskif.github.io/edit/master/README.md)
-
 ### Работа в СПб (PWA)
 - [Репозиторий на Git Hub](https://github.com/mobiskif/JobSpb_PWA)
 - [Приложение на Github Pages](https://mobiskif.github.io/JobSpb_PWA)
@@ -29,3 +27,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 -->
+[editor](https://github.com/mobiskif/mobiskif.github.io/edit/master/README.md)
