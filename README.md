@@ -1,5 +1,5 @@
-1. [Запись к врачу по ОМС в Санкт-Петербурге (Android)](http://mobiskif.github.io/Healthy_ANDROID) 
-2. [Поиск работы в СПб (PWA)](https://mobiskif.github.io/JobSpb_PWA) 
+1. [Поиск работы в СПб (PWA)](https://mobiskif.github.io/JobSpb_PWA)
+2. [Запись к врачу по ОМС в Санкт-Петербурге (Android)](http://mobiskif.github.io/Healthy_ANDROID)
 
 
 ```markdown
