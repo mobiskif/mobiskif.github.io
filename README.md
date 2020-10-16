@@ -5,7 +5,7 @@
 - [Приложение на Github Pages](https://mobiskif.github.io/JobSpb_PWA)
 <br/>
 <br/>
-<br/>
+
 ### Запись к врачу по ОМС в Санкт-Петербурге (Android)
 <img src="https://github.com/mobiskif/Healthy_ANDROID/raw/master/1.png" width="50%" />
 
