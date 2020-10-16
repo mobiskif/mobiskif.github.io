@@ -1,10 +1,12 @@
 ### Работа в СПб (PWA)
 ![Image](https://github.com/mobiskif/JobSpb_PWA/blob/master/2.png)
+
 - [Репозиторий на Git Hub](https://github.com/mobiskif/JobSpb_PWA)
 - [Приложение на Github Pages](https://mobiskif.github.io/JobSpb_PWA)
 
 ### Запись к врачу по ОМС в Санкт-Петербурге (Android)
-<img src="https://github.com/mobiskif/Healthy_ANDROID/blob/master/5.png" width="50%" />
+<img src="https://github.com/mobiskif/Healthy_ANDROID/blob/master/5.png" width="50%"></img>
+
 - [Страница приложения](http://mobiskif.github.io/Healthy_ANDROID)
 - [Репозиторий](https://github.com/mobiskif/Healthy_ANDROID)
 - [Приложение на Google Play](https://play.google.com/store/search?q=mobiskif)
