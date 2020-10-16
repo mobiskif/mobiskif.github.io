@@ -1,5 +1,5 @@
 ### Работа в СПб (PWA)
-<img src="https://github.com/mobiskif/JobSpb_PWA/blob/master/2.png" width="50%" />
+<img src="https://github.com/mobiskif/JobSpb_PWA/raw/master/2.png" width="50%" />
 
 - [Репозиторий на Git Hub](https://github.com/mobiskif/JobSpb_PWA)
 - [Приложение на Github Pages](https://mobiskif.github.io/JobSpb_PWA)
