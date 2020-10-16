@@ -10,6 +10,7 @@
 - [Приложение на Google Play](https://play.google.com/store/search?q=mobiskif)
 
 
+<!--
 ```markdown
 Syntax highlighted code block
 
@@ -27,3 +28,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+-->
