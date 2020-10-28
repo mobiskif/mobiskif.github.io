@@ -1,4 +1,4 @@
-# Проекты mobiskif
+# Проекты
 
 ### Работа в СПб (PWA)
 <img src="https://github.com/mobiskif/JobSpb_PWA/raw/master/2.png" width="50%" />
