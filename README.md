@@ -14,7 +14,7 @@
 
 [Страница приложения](http://mobiskif.github.io/Healthy_ANDROID)
 
-[Репозиторий](https://github.com/mobiskif/Healthy_ANDROID)
+[Репозиторий](https://github.com/mobiskif/healthy_v44)
 
 [Приложение на Google Play](https://play.google.com/store/search?q=mobiskif)
 
