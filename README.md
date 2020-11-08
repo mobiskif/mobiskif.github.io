@@ -18,6 +18,8 @@
 
 [Приложение на Google Play](https://play.google.com/store/search?q=mobiskif)
 
+[apk](https://github.com/mobiskif/healthy_v64/raw/master/app/release/app-release.apk)
+
 <!--
 ```markdown
 Syntax highlighted code block
