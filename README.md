@@ -12,7 +12,7 @@
 ### Запись к врачу по ОМС в Санкт-Петербурге (Android)
 <img src="https://github.com/mobiskif/Healthy_ANDROID/raw/master/1.png" width="50%" />
 
-[Страница приложения](http://mobiskif.github.io/Healthy_ANDROID)
+[Страница приложения](https://mobiskif.github.io/healthy_v64)
 
 [Репозиторий](https://github.com/mobiskif/healthy_v44)
 
