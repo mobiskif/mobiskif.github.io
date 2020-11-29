@@ -2,7 +2,7 @@
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | ce`nte`red    |   $12 |
-| йцу | [Репозиторий на Git Hub](https://github.com/mobiskif/JobSpb_PWA)      |    $1 |
+|rev65|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
 
 
 <!--
