@@ -1,8 +1,18 @@
 | Github        | Project       | Pages |
 | ------------- |:-------------:| -----:|
-|mobiskif.github.io|[project](https://github.com/mobiskif/mobiskif.github.io)|[pages](https://mobiskif.github.io/)|
+|`mobiskif.github.io`|[project](https://github.com/mobiskif/mobiskif.github.io)|[pages](https://mobiskif.github.io/)|
+|`healthy_v64`|[project](https://github.com/mobiskif/healthy_v64)|[pages](https://mobiskif.github.io/healthy_v64/)|
+|`swagger`|[project](https://github.com/mobiskif/swagger)|[pages](https://mobiskif.github.io/swagger/)|
+|`java-net-chat-UI`|[project](https://github.com/mobiskif/java-net-chat-UI)|[pages](https://mobiskif.github.io/java-net-chat-UI/)|
+|`java-net-chat`|[project](https://github.com/mobiskif/java-net-chat)|[pages](https://mobiskif.github.io/java-net-chat/)|
+|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
+|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
+|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
+|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
+|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
+|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
+|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
 | col 2 is      | ce`nte`red    |   $12 |
-|rev65|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
 
 
 <!--
