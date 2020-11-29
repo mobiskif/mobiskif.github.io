@@ -1,5 +1,5 @@
 |#| Github        | Project       | Pages |
-|1| ------------- |:-------------:| -----:|
+|---| ------------- |:-------------:| -----:|
 |1|`mobiskif.github.io`|[project](https://github.com/mobiskif/mobiskif.github.io)|[pages](https://mobiskif.github.io/)|
 |1|`healthy_v64`|[project](https://github.com/mobiskif/healthy_v64)|[pages](https://mobiskif.github.io/healthy_v64/)|
 |1|`swagger`|[project](https://github.com/mobiskif/swagger)|[pages](https://mobiskif.github.io/swagger/)|
