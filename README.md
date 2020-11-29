@@ -1,6 +1,6 @@
-| Tables        | Are           | Cool  |
+| Github        | Project       | Pages |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+|mobiskif.github.io|[project](https://github.com/mobiskif/mobiskif.github.io)|[pages](https://mobiskif.github.io/)|
 | col 2 is      | ce`nte`red    |   $12 |
 |rev65|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
 
