@@ -1,3 +1,11 @@
+|   	|   	|   	|   	|   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+
+
+<!--
 # Проекты
 
 ### Работа в СПб (PWA)
@@ -19,6 +27,7 @@
 [Приложение на Google Play](https://play.google.com/store/search?q=mobiskif)
 
 [apk](https://github.com/mobiskif/rev65/raw/master/app/release/app-release.apk)
+-->
 
 <!--
 ```markdown
@@ -39,6 +48,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 -->
+<!--
 <br/>
 
 [editor](https://github.com/mobiskif/mobiskif.github.io/edit/master/README.md)
+-->
+--
