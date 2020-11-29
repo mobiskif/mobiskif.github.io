@@ -2,7 +2,7 @@
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | ce`nte`red    |   $12 |
-| zebra stripes | are neat      |    $1 |
+| [Репозиторий на Git Hub] | (https://github.com/mobiskif/JobSpb_PWA)      |    $1 |
 
 
 <!--
