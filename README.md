@@ -14,16 +14,16 @@
 |`healthy_v44`|[project](https://github.com/mobiskif/healthy_v44)|[pages](https://mobiskif.github.io/healthy_v44/)|
 |`VKonverte_PHP`|[project](https://github.com/mobiskif/VKonverte_PHP)|[pages](https://mobiskif.github.io/VKonverte_PHP/)|
 |`WebRTC`|[project](https://github.com/mobiskif/WebRTC)|[pages](https://mobiskif.github.io/WebRTC/)|
-|`JetPack`|[project](https://github.com/mobiskif/JetPack)|[pages](https://mobiskif.github.io/JetPack/)|
-|`widget`|[project](https://github.com/mobiskif/widget)|[pages](https://mobiskif.github.io/widget/)|
-|`russ`|[project](https://github.com/mobiskif/russ)|[pages](https://mobiskif.github.io/russ/)|
-|`bottombar`|[project](https://github.com/mobiskif/bottombar)|[pages](https://mobiskif.github.io/bottombar/)|
-|`ru.mobiskif`|[project](https://github.com/mobiskif/ru.mobiskif)|[pages](https://mobiskif.github.io/ru.mobiskif/)|
+|`JetPack`|[project](https://github.com/mobiskif/JetPack)|===|
+|`widget`|[project](https://github.com/mobiskif/widget)|===|
+|`russ`|[project](https://github.com/mobiskif/russ)|===|
+|`bottombar`|[project](https://github.com/mobiskif/bottombar)|===|
+|`ru.mobiskif`|[project](https://github.com/mobiskif/ru.mobiskif)|===)|
 |`mflops_JAVA`|[project](https://github.com/mobiskif/mflops_JAVA)|[pages](https://mobiskif.github.io/mflops_JAVA/)|
-|`geocat_JAVA`|[project](https://github.com/mobiskif/geocat_JAVA)|[pages](https://mobiskif.github.io/geocat_JAVA/)|
-|`lamda_JAVA`|[project](https://github.com/mobiskif/lamda_JAVA)|[pages](https://mobiskif.github.io/lamda_JAVA/)|
-|`tree_JAVA`|[project](https://github.com/mobiskif/tree_JAVA)|[pages](https://mobiskif.github.io/tree_JAVA/)|
-|`HealthyTTS_ANDROID`|[project](https://github.com/mobiskif/HealthyTTS_ANDROID)|[pages](https://mobiskif.github.io/HealthyTTS_ANDROID/)|
+|`geocat_JAVA`|[project](https://github.com/mobiskif/geocat_JAVA)|===|
+|`lamda_JAVA`|[project](https://github.com/mobiskif/lamda_JAVA)|===|
+|`tree_JAVA`|[project](https://github.com/mobiskif/tree_JAVA)|===|
+|`HealthyTTS_ANDROID`|[project](https://github.com/mobiskif/HealthyTTS_ANDROID)|===|
 |`MedCabinet_PHP`|[project](https://github.com/mobiskif/MedCabinet_PHP)|[pages](https://mobiskif.github.io/MedCabinet_PHP/)|
 
 
