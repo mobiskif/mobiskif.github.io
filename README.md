@@ -18,7 +18,7 @@
 |`widget`|[project](https://github.com/mobiskif/widget)|===|
 |`russ`|[project](https://github.com/mobiskif/russ)|===|
 |`bottombar`|[project](https://github.com/mobiskif/bottombar)|===|
-|`ru.mobiskif`|[project](https://github.com/mobiskif/ru.mobiskif)|===)|
+|`ru.mobiskif`|[project](https://github.com/mobiskif/ru.mobiskif)|===|
 |`mflops_JAVA`|[project](https://github.com/mobiskif/mflops_JAVA)|[pages](https://mobiskif.github.io/mflops_JAVA/)|
 |`geocat_JAVA`|[project](https://github.com/mobiskif/geocat_JAVA)|===|
 |`lamda_JAVA`|[project](https://github.com/mobiskif/lamda_JAVA)|===|
