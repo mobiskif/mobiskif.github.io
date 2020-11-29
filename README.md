@@ -5,7 +5,8 @@
 | zebra stripes | are neat      |    $1 |
 
 
-!!! Уведомление
+!!! important "Уведомление"
+
 текст
 
 <!--
