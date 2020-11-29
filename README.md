@@ -5,14 +5,26 @@
 |`swagger`|[project](https://github.com/mobiskif/swagger)|[pages](https://mobiskif.github.io/swagger/)|
 |`java-net-chat-UI`|[project](https://github.com/mobiskif/java-net-chat-UI)|[pages](https://mobiskif.github.io/java-net-chat-UI/)|
 |`java-net-chat`|[project](https://github.com/mobiskif/java-net-chat)|[pages](https://mobiskif.github.io/java-net-chat/)|
-|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
-|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
-|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
-|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
-|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
-|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
-|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
-| col 2 is      | ce`nte`red    |   $12 |
+|`JobSpb_PWA`|[project](https://github.com/mobiskif/JobSpb_PWA)|[pages](https://mobiskif.github.io/JobSpb_PWA/)|
+|`LennardJones_JAVA`|[project](https://github.com/mobiskif/LennardJones_JAVA)|[pages](https://mobiskif.github.io/LennardJones_JAVA/)|
+|`hr_JAVA`|[project](https://github.com/mobiskif/hr_JAVA)|[pages](https://mobiskif.github.io/hr_JAVA/)|
+|`healthy_v56`|[project](https://github.com/mobiskif/healthy_v56)|[pages](https://mobiskif.github.io/healthy_v56/)|
+|`Medcard_1C8`|[project](https://github.com/mobiskif/Medcard_1C8)|[pages](https://mobiskif.github.io/Medcard_1C8/)|
+|`hh_JAVA`|[project](https://github.com/mobiskif/hh_JAVA)|[pages](https://mobiskif.github.io/hh_JAVA/)|
+|`healthy_v44`|[project](https://github.com/mobiskif/healthy_v44)|[pages](https://mobiskif.github.io/healthy_v44/)|
+|`VKonverte_PHP`|[project](https://github.com/mobiskif/VKonverte_PHP)|[pages](https://mobiskif.github.io/VKonverte_PHP/)|
+|`WebRTC`|[project](https://github.com/mobiskif/WebRTC)|[pages](https://mobiskif.github.io/WebRTC/)|
+|`JetPack`|[project](https://github.com/mobiskif/JetPack)|[pages](https://mobiskif.github.io/JetPack/)|
+|`widget`|[project](https://github.com/mobiskif/widget)|[pages](https://mobiskif.github.io/widget/)|
+|`russ`|[project](https://github.com/mobiskif/russ)|[pages](https://mobiskif.github.io/russ/)|
+|`bottombar`|[project](https://github.com/mobiskif/bottombar)|[pages](https://mobiskif.github.io/bottombar/)|
+|`ru.mobiskif`|[project](https://github.com/mobiskif/ru.mobiskif)|[pages](https://mobiskif.github.io/ru.mobiskif/)|
+|`mflops_JAVA`|[project](https://github.com/mobiskif/mflops_JAVA)|[pages](https://mobiskif.github.io/mflops_JAVA/)|
+|`geocat_JAVA`|[project](https://github.com/mobiskif/geocat_JAVA)|[pages](https://mobiskif.github.io/geocat_JAVA/)|
+|`lamda_JAVA`|[project](https://github.com/mobiskif/lamda_JAVA)|[pages](https://mobiskif.github.io/lamda_JAVA/)|
+|`tree_JAVA`|[project](https://github.com/mobiskif/tree_JAVA)|[pages](https://mobiskif.github.io/tree_JAVA/)|
+|`HealthyTTS_ANDROID`|[project](https://github.com/mobiskif/HealthyTTS_ANDROID)|[pages](https://mobiskif.github.io/HealthyTTS_ANDROID/)|
+|`MedCabinet_PHP`|[project](https://github.com/mobiskif/MedCabinet_PHP)|[pages](https://mobiskif.github.io/MedCabinet_PHP/)|
 
 
 <!--
