@@ -1,10 +1,10 @@
 |#|Github|Project|Pages|CI|
 |---| ------------- |:-------------:| -----:|-----|
-|0|`mobiskif.github.io`|[project](https://github.com/mobiskif/mobiskif.github.io)|[pages](https://mobiskif.github.io/)|![Android CI](https://github.com/mobiskif/rev65/workflows/Android%20CI/badge.svg)|
-|1|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|
-|2|`healthy_v64`|[project](https://github.com/mobiskif/healthy_v64)|[pages](https://mobiskif.github.io/healthy_v64/)|
+|0|`mobiskif.github.io`|[project](https://github.com/mobiskif/mobiskif.github.io)| |
+|1|`rev65`|[project](https://github.com/mobiskif/rev65)|[pages](https://mobiskif.github.io/rev65/)|[pages](https://mobiskif.github.io/)|![Android CI](https://github.com/mobiskif/rev65/workflows/Android%20CI/badge.svg)|
+|2|`healthy_v64`|[project](https://github.com/mobiskif/healthy_v64)|[pages](https://mobiskif.github.io/healthy_v64/)|[pages](https://mobiskif.github.io/)|![Android CI](https://github.com/mobiskif/healthy_v64/workflows/Android%20CI/badge.svg)|
 |3|`swagger`|[project](https://github.com/mobiskif/swagger)|[pages](https://mobiskif.github.io/swagger/)|
-|4|`java-net-chat-UI`|[project](https://github.com/mobiskif/java-net-chat-UI)|===|
+|4|`java-net-chat-UI`|[project](https://github.com/mobiskif/java-net-chat-UI)|===|![Android CI](https://github.com/mobiskif/java-net-chat-UI/workflows/Android%20CI/badge.svg)|
 |5|`java-net-chat`|[project](https://github.com/mobiskif/java-net-chat)|[pages](https://mobiskif.github.io/java-net-chat/)|
 |6|`JobSpb_PWA`|[project](https://github.com/mobiskif/JobSpb_PWA)|[pages](https://mobiskif.github.io/JobSpb_PWA/)|
 |7|`LennardJones_JAVA`|[project](https://github.com/mobiskif/LennardJones_JAVA)|[pages](https://mobiskif.github.io/LennardJones_JAVA/)|
