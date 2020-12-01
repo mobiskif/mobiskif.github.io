@@ -20,7 +20,7 @@
 |17|`russ`|[project](https://github.com/mobiskif/russ)|===| |
 |18|`bottombar`|[project](https://github.com/mobiskif/bottombar)|===| |
 |19|`ru.mobiskif`|[project](https://github.com/mobiskif/ru.mobiskif)|===| |
-|20|`mflops_JAVA`|[project](https://github.com/mobiskif/mflops_JAVA)|[pages](https://mobiskif.github.io/mflops_JAVA/)| |
+|20|`mflops_JAVA`|[project](https://github.com/mobiskif/mflops_JAVA)|[pages](https://mobiskif.github.io/mflops_JAVA/)|![Java CI](https://github.com/mobiskif/mflops_JAVA/workflows/Java%20CI/badge.svg)|
 |21|`geocat_JAVA`|[project](https://github.com/mobiskif/geocat_JAVA)|===| |
 |22|`lamda_JAVA`|[project](https://github.com/mobiskif/lamda_JAVA)|===| |
 |23|`tree_JAVA`|[project](https://github.com/mobiskif/tree_JAVA)|===| |
