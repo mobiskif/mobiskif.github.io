@@ -15,7 +15,7 @@
 |12|`healthy_v44`|[project](https://github.com/mobiskif/healthy_v44)|[pages](https://mobiskif.github.io/healthy_v44/)| |
 |13|`VKonverte_PHP`|[project](https://github.com/mobiskif/VKonverte_PHP)|[pages](https://mobiskif.github.io/VKonverte_PHP/)| |
 |14|`WebRTC`|[project](https://github.com/mobiskif/WebRTC)|[pages](https://mobiskif.github.io/WebRTC/)| |
-|15|`JetPack`|[project](https://github.com/mobiskif/JetPack)|===| |
+|15|`JetPack`|[project](https://github.com/mobiskif/JetPack)|===|![Android CI](https://github.com/mobiskif/jetpack/workflows/Android%20CI/badge.svg)|
 |16|`widget`|[project](https://github.com/mobiskif/widget)|===| |
 |17|`russ`|[project](https://github.com/mobiskif/russ)|===| |
 |18|`bottombar`|[project](https://github.com/mobiskif/bottombar)|===| |
