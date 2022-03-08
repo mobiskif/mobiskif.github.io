@@ -5,6 +5,7 @@
 |3|`mobiskif.github.io`|[project](https://github.com/mobiskif/mobiskif.github.io)|[pages](https://mobiskif.github.io/)| |
 |4|`JobSpb_PWA`|[project](https://github.com/mobiskif/JobSpb_PWA)|[pages](https://mobiskif.github.io/JobSpb_PWA/)| |
 |5|`swagger`|[project](https://github.com/mobiskif/swagger)|[pages](https://mobiskif.github.io/swagger/)| |
+|6|`web3`|[project](https://github.com/mobiskif/web3)|[pages](https://mobiskif.github.io/web3/)| |
 
 
 <!--
