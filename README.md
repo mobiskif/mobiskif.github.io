@@ -1,10 +1,9 @@
 |#|Github|Project|Pages|CI|
 |---| ------------- |:-------------:| -----:|-----|
-|1|`mflops_JAVA`|[project](https://github.com/mobiskif/mflops_JAVA)|[pages](https://mobiskif.github.io/mflops_JAVA/)|![Java CI](https://github.com/mobiskif/mflops_JAVA/workflows/Java%20CI/badge.svg)|
-|2|`v80`|[project](https://github.com/mobiskif/v80)|[pages](https://mobiskif.github.io/v80/)|![Android CI](https://github.com/mobiskif/v80/workflows/Android%20CI/badge.svg)|
-|3|`mobiskif.github.io`|[project](https://github.com/mobiskif/mobiskif.github.io)|[pages](https://mobiskif.github.io/)| |
-|4|`JobSpb_PWA`|[project](https://github.com/mobiskif/JobSpb_PWA)|[pages](https://mobiskif.github.io/JobSpb_PWA/)| |
-|7|`Converter`|[project](https://github.com/mobiskif/Converter)|[pages](https://mobiskif.github.io/Converter/)| |
+|1|`v80`|[project](https://github.com/mobiskif/v80)|[pages](https://mobiskif.github.io/v80/)|![Android CI](https://github.com/mobiskif/v80/workflows/Android%20CI/badge.svg)|
+|2|`mobiskif.github.io`|[project](https://github.com/mobiskif/mobiskif.github.io)|[pages](https://mobiskif.github.io/)| |
+|3|`JobSpb_PWA`|[project](https://github.com/mobiskif/JobSpb_PWA)|[pages](https://mobiskif.github.io/JobSpb_PWA/)| |
+|4|`Converter`|[project](https://github.com/mobiskif/Converter)|[pages](https://mobiskif.github.io/Converter/)| |
 
 
 <!--
