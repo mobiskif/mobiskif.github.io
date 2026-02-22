@@ -1,0 +1,25 @@
+body {
+  margin: 10vh 10vh;
+}
+
+[role="tabpanel"] {
+  padding: 1em;
+  font-size: 1em;
+  border: 1px solid silver;
+  min-height: 18ch;
+}
+
+.tab {
+  display: inline-block;
+  font-size: 1em;
+  padding: .5em 1em;
+  border: 1px solid silver;
+  border-bottom: none;
+  border-top-left-radius: .5rem;
+  border-top-right-radius: .5rem;
+ }
+
+ iframe {
+  width: 95%;
+  font-size: 1em;
+}
